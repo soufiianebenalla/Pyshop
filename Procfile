@@ -1,2 +1,1 @@
-web: gunicorn store.wsgi
-web: gunicorn run.app
+web: gunicorn pyshop.wsgi
